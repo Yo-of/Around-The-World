@@ -23,23 +23,23 @@ script.js — JavaScript code to load and display countries
 
 countries.json — JSON file with countries data
 
-styles.css — CSS for styling the card and page
+style.css — CSS for styling the card and page
 
 Open index.html in any modern web browser.
 
-Click the Show Random Country button to see a random country’s information.
+Click the Spin the Globe button to see a random country’s information.
 
 # Project Structure
 
 /project-folder
 ├── index.html
 ├── script.js
-├── styles.css
+├── style.css
 └── countries.json
 
 # Customization
 To update country data, edit countries.json.
 
-Modify styles.css to change card appearance.
+Modify style.css to change card appearance.
 
 You can enhance functionality by adding search or filtering features.
