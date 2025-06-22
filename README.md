@@ -29,14 +29,6 @@ Open index.html in any modern web browser.
 
 Click the Spin the Globe button to see a random country’s information.
 
-# Project Structure
-
-/project-folder
-├── index.html
-├── script.js
-├── style.css
-└── countries.json
-
 # Customization
 To update country data, edit countries.json.
 
