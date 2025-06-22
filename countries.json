@@ -1,0 +1,1952 @@
+[
+  {
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "languages": ["Pashto", "Dari"],
+    "population": "39 million",
+    "landmark": "Minaret of Jam",
+    "fact": "Afghanistan has some of the oldest human settlements."
+  },
+  {
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "languages": ["Albanian"],
+    "population": "2.8 million",
+    "landmark": "Butrint Ancient City",
+    "fact": "Albania has over 7,000 caves."
+  },
+  {
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "languages": ["Arabic", "Berber"],
+    "population": "44 million",
+    "landmark": "The Sahara Desert",
+    "fact": "Algeria is the largest country in Africa by land area."
+  },
+  {
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "languages": ["Catalan"],
+    "population": "77,000",
+    "landmark": "Vallnord Ski Resort",
+    "fact": "Andorra is the sixth smallest country in Europe."
+  },
+  {
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "languages": ["Portuguese"],
+    "population": "32 million",
+    "landmark": "Kalandula Falls",
+    "fact": "Angola has one of the fastest-growing economies in Africa."
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "capital": "St. John's",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "97,000",
+    "landmark": "Nelson's Dockyard",
+    "fact": "Antigua has 365 beaches — one for each day of the year."
+  },
+  {
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "45 million",
+    "landmark": "Iguazu Falls",
+    "fact": "Argentina is famous for tango dance."
+  },
+  {
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "languages": ["Armenian"],
+    "population": "3 million",
+    "landmark": "Geghard Monastery",
+    "fact": "Armenia was the first country to adopt Christianity as a state religion."
+  },
+  {
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "languages": ["English"],
+    "population": "25 million",
+    "landmark": "Sydney Opera House",
+    "fact": "Australia is home to the world's largest coral reef system."
+  },
+  {
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "languages": ["German"],
+    "population": "9 million",
+    "landmark": "Schönbrunn Palace",
+    "fact": "Austria is famous for classical music and composers like Mozart."
+  },
+  {
+    "name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "capital": "Baku",
+    "continent": "Asia",
+    "languages": ["Azerbaijani"],
+    "population": "10 million",
+    "landmark": "Flame Towers",
+    "fact": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves."
+  },
+  {
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "capital": "Nassau",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "393,000",
+    "landmark": "Exuma Cays Land and Sea Park",
+    "fact": "The Bahamas has some of the clearest waters in the world."
+  },
+  {
+    "name": "Bahrain",
+    "flag": "🇧🇭",
+    "capital": "Manama",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "1.7 million",
+    "landmark": "Bahrain Fort",
+    "fact": "Bahrain is home to the Tree of Life, a 400-year-old tree in the desert."
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "languages": ["Bengali"],
+    "population": "166 million",
+    "landmark": "Sundarbans Mangrove Forest",
+    "fact": "Bangladesh has the world's largest river delta."
+  },
+  {
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "287,000",
+    "landmark": "Harrison's Cave",
+    "fact": "Barbados is famous for rum production."
+  },
+  {
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "languages": ["Belarusian", "Russian"],
+    "population": "9.4 million",
+    "landmark": "Mir Castle",
+    "fact": "Belarus is known as the 'Lungs of Europe' due to its vast forests."
+  },
+  {
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "languages": ["Dutch", "French", "German"],
+    "population": "11 million",
+    "landmark": "Grand Place",
+    "fact": "Belgium is famous for chocolate and waffles."
+  },
+  {
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "420,000",
+    "landmark": "Great Blue Hole",
+    "fact": "Belize has the second largest barrier reef in the world."
+  },
+  {
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "12 million",
+    "landmark": "Pendjari National Park",
+    "fact": "Benin is considered the birthplace of the voodoo religion."
+  },
+  {
+    "name": "Bhutan",
+    "flag": "🇧🇹",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "languages": ["Dzongkha"],
+    "population": "771,000",
+    "landmark": "Tiger's Nest Monastery",
+    "fact": "Bhutan measures success by Gross National Happiness."
+  },
+  {
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "capital": "Sucre",
+    "continent": "South America",
+    "languages": ["Spanish", "Quechua", "Aymara"],
+    "population": "11 million",
+    "landmark": "Salar de Uyuni",
+    "fact": "Bolivia has the world's largest salt flat."
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "languages": ["Bosnian", "Croatian", "Serbian"],
+    "population": "3.3 million",
+    "landmark": "Stari Most Bridge",
+    "fact": "Sarajevo hosted the 1984 Winter Olympics."
+  },
+  {
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "languages": ["English", "Tswana"],
+    "population": "2.4 million",
+    "landmark": "Okavango Delta",
+    "fact": "Botswana is known for its large diamond mines."
+  },
+  {
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "capital": "Brasília",
+    "continent": "South America",
+    "languages": ["Portuguese"],
+    "population": "213 million",
+    "landmark": "Christ the Redeemer",
+    "fact": "Home to the Amazon Rainforest."
+  },
+  {
+    "name": "Brunei",
+    "flag": "🇧🇳",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "languages": ["Malay"],
+    "population": "441,000",
+    "landmark": "Omar Ali Saifuddien Mosque",
+    "fact": "Brunei has one of the highest standards of living in Asia."
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "languages": ["Bulgarian"],
+    "population": "7 million",
+    "landmark": "Rila Monastery",
+    "fact": "Bulgaria is one of the world's oldest countries."
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "21 million",
+    "landmark": "Banfora Cascades",
+    "fact": "Burkina Faso means 'Land of Incorruptible People'."
+  },
+  {
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "languages": ["Kirundi", "French"],
+    "population": "12 million",
+    "landmark": "Rusizi National Park",
+    "fact": "Burundi is one of the smallest countries in Africa."
+  },
+  {
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "capital": "Praia",
+    "continent": "Africa",
+    "languages": ["Portuguese"],
+    "population": "550,000",
+    "landmark": "Fogo Volcano",
+    "fact": "Cabo Verde is an island country with volcanic origins."
+  },
+  {
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "languages": ["Khmer"],
+    "population": "16 million",
+    "landmark": "Angkor Wat",
+    "fact": "Angkor Wat is the largest religious monument in the world."
+  },
+  {
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "languages": ["French", "English"],
+    "population": "27 million",
+    "landmark": "Mount Cameroon",
+    "fact": "Cameroon is called 'Africa in miniature' because of its diverse geography."
+  },
+  {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "languages": ["English", "French"],
+    "population": "38 million",
+    "landmark": "CN Tower",
+    "fact": "Canada has the longest coastline in the world."
+  },
+  {
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "languages": ["French", "Sango"],
+    "population": "5 million",
+    "landmark": "Dzanga-Sangha National Park",
+    "fact": "It is one of the least developed countries."
+  },
+  {
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "languages": ["French", "Arabic"],
+    "population": "16 million",
+    "landmark": "Zakouma National Park",
+    "fact": "Chad has one of the largest reserves of uranium."
+  },
+  {
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "capital": "Santiago",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "19 million",
+    "landmark": "Atacama Desert",
+    "fact": "Chile has the driest desert in the world."
+  },
+  {
+    "name": "China",
+    "flag": "🇨🇳",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "languages": ["Mandarin"],
+    "population": "1.4 billion",
+    "landmark": "Great Wall of China",
+    "fact": "China is the world's most populous country."
+  },
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "51 million",
+    "landmark": "Cocora Valley",
+    "fact": "Colombia produces over 70% of the world's emeralds."
+  },
+  {
+    "name": "Comoros",
+    "flag": "🇰🇲",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "languages": ["Comorian", "Arabic", "French"],
+    "population": "870,000",
+    "landmark": "Mount Karthala",
+    "fact": "Comoros is the world's largest producer of ylang-ylang."
+  },
+  {
+    "name": "Congo (Brazzaville)",
+    "flag": "🇨🇬",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "5.5 million",
+    "landmark": "Odzala-Kokoua National Park",
+    "fact": "Known for its rich biodiversity."
+  },
+  {
+    "name": "Congo (Kinshasa)",
+    "flag": "🇨🇩",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "languages": ["French", "Lingala"],
+    "population": "92 million",
+    "landmark": "Virunga National Park",
+    "fact": "Home to the endangered mountain gorilla."
+  },
+  {
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "capital": "San José",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "5 million",
+    "landmark": "Arenal Volcano",
+    "fact": "Costa Rica is known for its biodiversity and national parks."
+  },
+  {
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "languages": ["Croatian"],
+    "population": "4 million",
+    "landmark": "Plitvice Lakes National Park",
+    "fact": "Croatia has a coastline along the Adriatic Sea famous for its beauty."
+  },
+  {
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "capital": "Havana",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "11 million",
+    "landmark": "Old Havana",
+    "fact": "Cuba is known for classic cars and cigars."
+  },
+  {
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "capital": "Nicosia",
+    "continent": "Europe/Asia",
+    "languages": ["Greek", "Turkish"],
+    "population": "1.2 million",
+    "landmark": "Aphrodite's Rock",
+    "fact": "Cyprus is the legendary birthplace of Aphrodite."
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "capital": "Prague",
+    "continent": "Europe",
+    "languages": ["Czech"],
+    "population": "10.7 million",
+    "landmark": "Charles Bridge",
+    "fact": "Prague has one of the best-preserved medieval city centers."
+  },
+  {
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "languages": ["Danish"],
+    "population": "5.8 million",
+    "landmark": "The Little Mermaid Statue",
+    "fact": "Denmark is considered one of the happiest countries."
+  },
+  {
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "languages": ["French", "Arabic"],
+    "population": "1 million",
+    "landmark": "Lake Assal",
+    "fact": "Lake Assal is one of the saltiest lakes in the world."
+  },
+  {
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "capital": "Roseau",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "72,000",
+    "landmark": "Boiling Lake",
+    "fact": "Dominica is known as the 'Nature Island' of the Caribbean."
+  },
+  {
+    "name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "10.9 million",
+    "landmark": "Zona Colonial",
+    "fact": "It shares the island of Hispaniola with Haiti."
+  },
+  {
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "capital": "Quito",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "17 million",
+    "landmark": "Galápagos Islands",
+    "fact": "The Galápagos Islands inspired Darwin's theory of evolution."
+  },
+  {
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "languages": ["Arabic"],
+    "population": "102 million",
+    "landmark": "Great Pyramid of Giza",
+    "fact": "Egypt is home to one of the world's oldest civilizations."
+  },
+  {
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "6.5 million",
+    "landmark": "Santa Ana Volcano",
+    "fact": "El Salvador is the smallest country in Central America."
+  },
+  {
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "languages": ["Spanish", "French", "Portuguese"],
+    "population": "1.4 million",
+    "landmark": "Bioko Island",
+    "fact": "Equatorial Guinea is the only African country where Spanish is an official language."
+  },
+  {
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "languages": ["Tigrinya", "Arabic", "English"],
+    "population": "3.5 million",
+    "landmark": "Asmara's Art Deco architecture",
+    "fact": "Asmara is known as 'New Rome' due to its Italian architecture."
+  },
+  {
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "languages": ["Estonian"],
+    "population": "1.3 million",
+    "landmark": "Tallinn Old Town",
+    "fact": "Estonia is one of the most digitally advanced countries."
+  },
+  {
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "capital": "Mbabane",
+    "continent": "Africa",
+    "languages": ["Swazi", "English"],
+    "population": "1.1 million",
+    "landmark": "Mlilwane Wildlife Sanctuary",
+    "fact": "Eswatini is one of the last absolute monarchies."
+  },
+  {
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "languages": ["Amharic"],
+    "population": "120 million",
+    "landmark": "Lalibela Rock-Hewn Churches",
+    "fact": "Ethiopia is the only African country never colonized."
+  },
+  {
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "languages": ["English", "Fijian", "Hindi"],
+    "population": "900,000",
+    "landmark": "Mamanuca Islands",
+    "fact": "Fiji is known for its coral reefs and clear lagoons."
+  },
+  {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "languages": ["Finnish", "Swedish"],
+    "population": "5.5 million",
+    "landmark": "Northern Lights",
+    "fact": "Finland is known as the land of a thousand lakes."
+  },
+  {
+    "name": "France",
+    "flag": "🇫🇷",
+    "capital": "Paris",
+    "continent": "Europe",
+    "languages": ["French"],
+    "population": "67 million",
+    "landmark": "Eiffel Tower",
+    "fact": "France is the most visited country in the world."
+  },
+  {
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "2.2 million",
+    "landmark": "Lope National Park",
+    "fact": "Gabon is covered by 80% rainforest."
+  },
+  {
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "2.4 million",
+    "landmark": "River Gambia National Park",
+    "fact": "Gambia is the smallest country on mainland Africa."
+  },
+  {
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "capital": "Tbilisi",
+    "continent": "Asia/Europe",
+    "languages": ["Georgian"],
+    "population": "4 million",
+    "landmark": "Narikala Fortress",
+    "fact": "Georgia is famous for its ancient wine-making traditions."
+  },
+  {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "languages": ["German"],
+    "population": "83 million",
+    "landmark": "Brandenburg Gate",
+    "fact": "Germany is famous for its Oktoberfest beer festival."
+  },
+  {
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "capital": "Accra",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "31 million",
+    "landmark": "Cape Coast Castle",
+    "fact": "Ghana was the first African country to gain independence."
+  },
+  {
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "capital": "Athens",
+    "continent": "Europe",
+    "languages": ["Greek"],
+    "population": "10.7 million",
+    "landmark": "Parthenon",
+    "fact": "Greece is considered the cradle of Western civilization."
+  },
+  {
+    "name": "Grenada",
+    "flag": "🇬🇩",
+    "capital": "St. George's",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "112,000",
+    "landmark": "Grand Anse Beach",
+    "fact": "Grenada is known as the 'Island of Spice' for its nutmeg production."
+  },
+  {
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "18 million",
+    "landmark": "Tikal",
+    "fact": "Guatemala was the heart of the ancient Mayan civilization."
+  },
+  {
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "13 million",
+    "landmark": "Mount Nimba",
+    "fact": "Guinea has the world's largest reserves of bauxite."
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "languages": ["Portuguese"],
+    "population": "2 million",
+    "landmark": "Orango Islands National Park",
+    "fact": "Known for its biodiversity and marine turtles."
+  },
+  {
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "languages": ["English"],
+    "population": "790,000",
+    "landmark": "Kaieteur Falls",
+    "fact": "Guyana is home to one of the world's tallest waterfalls."
+  },
+  {
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "languages": ["French", "Haitian Creole"],
+    "population": "11 million",
+    "landmark": "Citadelle Laferrière",
+    "fact": "Haiti was the first independent nation in Latin America."
+  },
+  {
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "10 million",
+    "landmark": "Copán Ruins",
+    "fact": "Home to ancient Mayan archaeological sites."
+  },
+  {
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "languages": ["Hungarian"],
+    "population": "9.7 million",
+    "landmark": "Buda Castle",
+    "fact": "Budapest is known as the 'Pearl of the Danube.'"
+  },
+  {
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "languages": ["Icelandic"],
+    "population": "0.37 million",
+    "landmark": "Blue Lagoon",
+    "fact": "Iceland is one of the most volcanically active places on Earth."
+  },
+  {
+    "name": "India",
+    "flag": "🇮🇳",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "languages": ["Hindi", "English"],
+    "population": "1.4 billion",
+    "landmark": "Taj Mahal",
+    "fact": "India is the world's largest producer of milk."
+  },
+  {
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "languages": ["Indonesian"],
+    "population": "273 million",
+    "landmark": "Borobudur Temple",
+    "fact": "Indonesia is the world's largest archipelago country."
+  },
+  {
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "languages": ["Persian"],
+    "population": "83 million",
+    "landmark": "Persepolis",
+    "fact": "Iran is home to one of the world's oldest continuous civilizations."
+  },
+  {
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "languages": ["Arabic", "Kurdish"],
+    "population": "40 million",
+    "landmark": "Ancient city of Babylon",
+    "fact": "Iraq is considered the cradle of civilization."
+  },
+  {
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "languages": ["Irish", "English"],
+    "population": "5 million",
+    "landmark": "Cliffs of Moher",
+    "fact": "Ireland is known as the 'Emerald Isle.'"
+  },
+  {
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "languages": ["Hebrew", "Arabic"],
+    "population": "9 million",
+    "landmark": "Western Wall",
+    "fact": "Israel is known as the 'Startup Nation' due to its tech innovation."
+  },
+  {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "capital": "Rome",
+    "continent": "Europe",
+    "languages": ["Italian"],
+    "population": "60 million",
+    "landmark": "Colosseum",
+    "fact": "Italy is home to the Vatican City."
+  },
+  {
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "capital": "Kingston",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "3 million",
+    "landmark": "Dunn's River Falls",
+    "fact": "Jamaica is the birthplace of reggae music."
+  },
+  {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "languages": ["Japanese"],
+    "population": "125 million",
+    "landmark": "Mount Fuji",
+    "fact": "Japan has more than 6,800 islands."
+  },
+  {
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "capital": "Amman",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "10 million",
+    "landmark": "Petra",
+    "fact": "Petra is known as the 'Rose City' due to its rock color."
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "capital": "Nur-Sultan",
+    "continent": "Asia",
+    "languages": ["Kazakh", "Russian"],
+    "population": "19 million",
+    "landmark": "Bayterek Tower",
+    "fact": "Kazakhstan is the world's largest landlocked country."
+  },
+  {
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "languages": ["Swahili", "English"],
+    "population": "54 million",
+    "landmark": "Maasai Mara National Reserve",
+    "fact": "Kenya is famous for its long-distance runners."
+  },
+  {
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "capital": "South Tarawa",
+    "continent": "Oceania",
+    "languages": ["English", "Gilbertese"],
+    "population": "120,000",
+    "landmark": "Phoenix Islands Protected Area",
+    "fact": "Kiribati is threatened by rising sea levels."
+  },
+  {
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "4.3 million",
+    "landmark": "Kuwait Towers",
+    "fact": "Kuwait has one of the highest GDP per capita in the Middle East."
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "languages": ["Kyrgyz", "Russian"],
+    "population": "6.5 million",
+    "landmark": "Issyk-Kul Lake",
+    "fact": "Issyk-Kul is one of the largest alpine lakes in the world."
+  },
+  {
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "languages": ["Lao"],
+    "population": "7.3 million",
+    "landmark": "Plain of Jars",
+    "fact": "Laos is the most heavily bombed country per capita in history."
+  },
+  {
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "capital": "Riga",
+    "continent": "Europe",
+    "languages": ["Latvian"],
+    "population": "1.9 million",
+    "landmark": "Riga Old Town",
+    "fact": "Riga is famous for its Art Nouveau architecture."
+  },
+  {
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "languages": ["Arabic", "French"],
+    "population": "6.8 million",
+    "landmark": "Baalbek Temples",
+    "fact": "Lebanon has one of the oldest known wine-producing regions."
+  },
+  {
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "languages": ["Sesotho", "English"],
+    "population": "2.1 million",
+    "landmark": "Maloti Mountains",
+    "fact": "Lesotho is the only country in the world entirely above 1,000 meters altitude."
+  },
+  {
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "5 million",
+    "landmark": "Sapo National Park",
+    "fact": "Liberia was founded by freed American and Caribbean slaves."
+  },
+  {
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "languages": ["Arabic"],
+    "population": "7 million",
+    "landmark": "Leptis Magna",
+    "fact": "Leptis Magna is one of the best-preserved Roman cities in the Mediterranean."
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "languages": ["German"],
+    "population": "39,000",
+    "landmark": "Vaduz Castle",
+    "fact": "Liechtenstein is the sixth smallest country in the world."
+  },
+  {
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "languages": ["Lithuanian"],
+    "population": "2.7 million",
+    "landmark": "Vilnius Old Town",
+    "fact": "Vilnius Old Town is a UNESCO World Heritage site."
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "capital": "Luxembourg City",
+    "continent": "Europe",
+    "languages": ["Luxembourgish", "French", "German"],
+    "population": "640,000",
+    "landmark": "Bock Casemates",
+    "fact": "Luxembourg has one of the highest GDP per capita worldwide."
+  },
+  {
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "languages": ["Malagasy", "French"],
+    "population": "28 million",
+    "landmark": "Avenue of the Baobabs",
+    "fact": "Madagascar is famous for its unique wildlife, including lemurs."
+  },
+  {
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "languages": ["English", "Chichewa"],
+    "population": "19 million",
+    "landmark": "Lake Malawi",
+    "fact": "Lake Malawi is one of the largest and oldest lakes in Africa."
+  },
+  {
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "languages": ["Malay"],
+    "population": "32 million",
+    "landmark": "Petronas Twin Towers",
+    "fact": "Malaysia is known for its rainforests and diverse culture."
+  },
+  {
+    "name": "Maldives",
+    "flag": "🇲🇻",
+    "capital": "Malé",
+    "continent": "Asia",
+    "languages": ["Dhivehi"],
+    "population": "530,000",
+    "landmark": "Coral Atolls",
+    "fact": "Maldives is the lowest-lying country in the world."
+  },
+  {
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "20 million",
+    "landmark": "Timbuktu",
+    "fact": "Timbuktu was an important center of Islamic learning."
+  },
+  {
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "languages": ["Maltese", "English"],
+    "population": "514,000",
+    "landmark": "The Hypogeum",
+    "fact": "Malta has some of the oldest free-standing structures in the world."
+  },
+  {
+    "name": "Marshall Islands",
+    "flag": "🇲🇭",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "languages": ["Marshallese", "English"],
+    "population": "59,000",
+    "landmark": "Bikini Atoll",
+    "fact": "Bikini Atoll was used for nuclear tests in the 1940s and 1950s."
+  },
+  {
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "languages": ["Arabic"],
+    "population": "4.5 million",
+    "landmark": "Adrar Plateau",
+    "fact": "Mauritania is mostly covered by the Sahara Desert."
+  },
+  {
+    "name": "Mauritius",
+    "flag": "🇲🇺",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "languages": ["English", "French"],
+    "population": "1.3 million",
+    "landmark": "Le Morne Brabant",
+    "fact": "Mauritius is home to the extinct dodo bird."
+  },
+  {
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "126 million",
+    "landmark": "Chichen Itza",
+    "fact": "Mexico has one of the largest pyramids in the world."
+  },
+  {
+    "name": "Micronesia",
+    "flag": "🇫🇲",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "languages": ["English"],
+    "population": "115,000",
+    "landmark": "Nan Madol Ruins",
+    "fact": "Micronesia is made up of over 600 islands."
+  },
+  {
+    "name": "Moldova",
+    "flag": "🇲🇩",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "languages": ["Romanian"],
+    "population": "2.6 million",
+    "landmark": "Orheiul Vechi",
+    "fact": "Moldova has some of the largest underground wine cellars."
+  },
+  {
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "languages": ["French"],
+    "population": "39,000",
+    "landmark": "Monte Carlo Casino",
+    "fact": "Monaco is the second smallest country in the world."
+  },
+  {
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "capital": "Ulaanbaatar",
+    "continent": "Asia",
+    "languages": ["Mongolian"],
+    "population": "3.3 million",
+    "landmark": "Gobi Desert",
+    "fact": "Mongolia is known for its vast steppes and nomadic culture."
+  },
+  {
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "languages": ["Montenegrin"],
+    "population": "620,000",
+    "landmark": "Bay of Kotor",
+    "fact": "Montenegro has a stunning Adriatic coastline."
+  },
+  {
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "languages": ["Arabic", "Berber"],
+    "population": "37 million",
+    "landmark": "Hassan II Mosque",
+    "fact": "Morocco is famous for its rich history and culture and having the oldest university in the world. It's also known for being the 1st sovereign country to recognize the United States in 1777."
+  },
+  {
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "languages": ["Portuguese"],
+    "population": "31 million",
+    "landmark": "Bazaruto Archipelago",
+    "fact": "Mozambique has rich marine biodiversity."
+  },
+  {
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "languages": ["Burmese"],
+    "population": "54 million",
+    "landmark": "Bagan Temples",
+    "fact": "Bagan has thousands of ancient Buddhist temples."
+  },
+  {
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "2.5 million",
+    "landmark": "Sossusvlei Dunes",
+    "fact": "Namibia has some of the highest sand dunes in the world."
+  },
+  {
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "capital": "Yaren",
+    "continent": "Oceania",
+    "languages": ["Nauruan", "English"],
+    "population": "10,000",
+    "landmark": "Buada Lagoon",
+    "fact": "Nauru is the third smallest country by area."
+  },
+  {
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "languages": ["Nepali"],
+    "population": "29 million",
+    "landmark": "Mount Everest",
+    "fact": "Nepal is home to the world’s tallest mountain."
+  },
+  {
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "languages": ["Dutch"],
+    "population": "17 million",
+    "landmark": "Keukenhof Gardens",
+    "fact": "The Netherlands is famous for its tulip fields."
+  },
+  {
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "languages": ["English", "Māori"],
+    "population": "5 million",
+    "landmark": "Milford Sound",
+    "fact": "New Zealand was the first country to give women the right to vote."
+  },
+  {
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "capital": "Managua",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "6.8 million",
+    "landmark": "Ometepe Island",
+    "fact": "Nicaragua has the largest freshwater island in a lake."
+  },
+  {
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "24 million",
+    "landmark": "Air Mountains",
+    "fact": "Niger is mostly desert and has one of the lowest population densities."
+  },
+  {
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "206 million",
+    "landmark": "Zuma Rock",
+    "fact": "Nigeria is the most populous country in Africa."
+  },
+  {
+    "name": "North Korea",
+    "flag": "🇰🇵",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "languages": ["Korean"],
+    "population": "25 million",
+    "landmark": "Kumsusan Palace of the Sun",
+    "fact": "North Korea is known for its secretive government."
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "languages": ["Macedonian"],
+    "population": "2.1 million",
+    "landmark": "Lake Ohrid",
+    "fact": "Lake Ohrid is one of Europe's oldest and deepest lakes."
+  },
+  {
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "languages": ["Norwegian"],
+    "population": "5.4 million",
+    "landmark": "Fjords of Western Norway",
+    "fact": "Norway is famous for its dramatic fjords."
+  },
+  {
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "5 million",
+    "landmark": "Wahiba Sands",
+    "fact": "Oman has ancient forts and desert landscapes."
+  },
+  {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "languages": ["Urdu", "English"],
+    "population": "220 million",
+    "landmark": "Badshahi Mosque",
+    "fact": "Pakistan has some of the highest mountain peaks."
+  },
+  {
+    "name": "Palau",
+    "flag": "🇵🇼",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "languages": ["Palauan", "English"],
+    "population": "18,000",
+    "landmark": "Rock Islands",
+    "fact": "Palau is famous for its marine biodiversity and diving spots."
+  },
+  {
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "capital": "Ramallah",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "5 million",
+    "landmark": "Church of the Nativity",
+    "fact": "Bethlehem, in Palestine, is traditionally recognized as Jesus’ birthplace."
+  },
+  {
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "capital": "Panama City",
+    "continent": "North America",
+    "languages": ["Spanish"],
+    "population": "4.3 million",
+    "landmark": "Panama Canal",
+    "fact": "The Panama Canal connects the Atlantic and Pacific Oceans."
+  },
+  {
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "languages": ["English", "Tok Pisin"],
+    "population": "9 million",
+    "landmark": "Kokoda Track",
+    "fact": "Papua New Guinea has the highest linguistic diversity in the world."
+  },
+  {
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "capital": "Asunción",
+    "continent": "South America",
+    "languages": ["Spanish", "Guarani"],
+    "population": "7 million",
+    "landmark": "Itaipu Dam",
+    "fact": "Paraguay is home to the world’s largest hydroelectric dam by energy production."
+  },
+  {
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "capital": "Lima",
+    "continent": "South America",
+    "languages": ["Spanish", "Quechua"],
+    "population": "33 million",
+    "landmark": "Machu Picchu",
+    "fact": "Machu Picchu is an ancient Incan city and UNESCO World Heritage site."
+  },
+  {
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "capital": "Manila",
+    "continent": "Asia",
+    "languages": ["Filipino", "English"],
+    "population": "113 million",
+    "landmark": "Chocolate Hills",
+    "fact": "The Philippines is an archipelago of over 7,000 islands."
+  },
+  {
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "languages": ["Polish"],
+    "population": "38 million",
+    "landmark": "Wawel Castle",
+    "fact": "Poland is known for its medieval architecture and rich history."
+  },
+  {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "languages": ["Portuguese"],
+    "population": "10 million",
+    "landmark": "Belem Tower",
+    "fact": "Portugal was a leading maritime power during the Age of Discovery."
+  },
+  {
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "capital": "Doha",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "2.8 million",
+    "landmark": "Museum of Islamic Art",
+    "fact": "Qatar is one of the richest countries per capita."
+  },
+  {
+    "name": "Republic of the Congo",
+    "flag": "🇨🇬",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "5.5 million",
+    "landmark": "Odzala-Kokoua National Park",
+    "fact": "The Congo River is the second longest river in Africa."
+  },
+  {
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "languages": ["Romanian"],
+    "population": "19 million",
+    "landmark": "Bran Castle",
+    "fact": "Bran Castle is often linked to the Dracula legend."
+  },
+  {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "capital": "Moscow",
+    "continent": "Europe/Asia",
+    "languages": ["Russian"],
+    "population": "146 million",
+    "landmark": "Red Square",
+    "fact": "Russia is the largest country in the world by area."
+  },
+  {
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "languages": ["Kinyarwanda", "French", "English"],
+    "population": "13 million",
+    "landmark": "Volcanoes National Park",
+    "fact": "Rwanda is famous for its mountain gorillas."
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "flag": "🇰🇳",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "53,000",
+    "landmark": "Brimstone Hill Fortress",
+    "fact": "One of the smallest countries in the Americas."
+  },
+  {
+    "name": "Saint Lucia",
+    "flag": "🇱🇨",
+    "capital": "Castries",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "180,000",
+    "landmark": "The Pitons",
+    "fact": "The Pitons are twin volcanic spires and a UNESCO World Heritage site."
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "110,000",
+    "landmark": "La Soufrière Volcano",
+    "fact": "The islands are known for their beautiful beaches."
+  },
+  {
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "languages": ["Samoan", "English"],
+    "population": "200,000",
+    "landmark": "To Sua Ocean Trench",
+    "fact": "Samoa is known for its tropical landscapes and waterfalls."
+  },
+  {
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "capital": "San Marino",
+    "continent": "Europe",
+    "languages": ["Italian"],
+    "population": "34,000",
+    "landmark": "Guaita Tower",
+    "fact": "San Marino is one of the world's oldest republics."
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "flag": "🇸🇹",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "languages": ["Portuguese"],
+    "population": "220,000",
+    "landmark": "Obo National Park",
+    "fact": "It is Africa’s smallest Portuguese-speaking country."
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "35 million",
+    "landmark": "Masjid al-Haram",
+    "fact": "Home to Islam’s holiest sites in Mecca and Medina."
+  },
+  {
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "16 million",
+    "landmark": "Île de Gorée",
+    "fact": "Île de Gorée is a UNESCO World Heritage site linked to the Atlantic slave trade."
+  },
+  {
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "languages": ["Serbian"],
+    "population": "7 million",
+    "landmark": "Belgrade Fortress",
+    "fact": "Belgrade is one of the oldest cities in Europe."
+  },
+  {
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "languages": ["Seychellois Creole", "English", "French"],
+    "population": "98,000",
+    "landmark": "Anse Source d'Argent",
+    "fact": "Known for its stunning beaches and unique granite boulders."
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "8 million",
+    "landmark": "Tacugama Chimpanzee Sanctuary",
+    "fact": "Sierra Leone has a rich history related to freed slaves."
+  },
+  {
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "languages": ["English", "Malay", "Mandarin", "Tamil"],
+    "population": "5.7 million",
+    "landmark": "Marina Bay Sands",
+    "fact": "Singapore is a global financial hub known for its cleanliness."
+  },
+  {
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "languages": ["Slovak"],
+    "population": "5.4 million",
+    "landmark": "Bratislava Castle",
+    "fact": "Slovakia is famous for its mountainous terrain and castles."
+  },
+  {
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "languages": ["Slovene"],
+    "population": "2.1 million",
+    "landmark": "Lake Bled",
+    "fact": "Lake Bled is famous for its church on an island."
+  },
+  {
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "languages": ["English"],
+    "population": "700,000",
+    "landmark": "Marovo Lagoon",
+    "fact": "Home to the largest saltwater lagoon in the world."
+  },
+  {
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "languages": ["Somali", "Arabic"],
+    "population": "15 million",
+    "landmark": "Laas Geel",
+    "fact": "Laas Geel is an ancient rock art site."
+  },
+  {
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "capital": "Pretoria (administrative), Cape Town (legislative)",
+    "continent": "Africa",
+    "languages": ["11 official languages including English, Zulu, Xhosa"],
+    "population": "59 million",
+    "landmark": "Table Mountain",
+    "fact": "South Africa is known as the 'Rainbow Nation' for its cultural diversity."
+  },
+  {
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "languages": ["Korean"],
+    "population": "52 million",
+    "landmark": "Gyeongbokgung Palace",
+    "fact": "South Korea is a global leader in technology and pop culture."
+  },
+  {
+    "name": "South Sudan",
+    "flag": "🇸🇸",
+    "capital": "Juba",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "11 million",
+    "landmark": "Nile River",
+    "fact": "The world’s youngest country, independent since 2011."
+  },
+  {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "languages": ["Spanish"],
+    "population": "47 million",
+    "landmark": "Sagrada Familia",
+    "fact": "Spain is famous for flamenco, bullfighting, and festivals."
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "capital": "Sri Jayawardenepura Kotte",
+    "continent": "Asia",
+    "languages": ["Sinhala", "Tamil"],
+    "population": "21 million",
+    "landmark": "Sigiriya Rock Fortress",
+    "fact": "Sri Lanka is known as the 'Pearl of the Indian Ocean.'"
+  },
+  {
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "languages": ["Arabic", "English"],
+    "population": "44 million",
+    "landmark": "Pyramids of Meroë",
+    "fact": "Sudan has more pyramids than any other country."
+  },
+  {
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "languages": ["Dutch"],
+    "population": "600,000",
+    "landmark": "Central Suriname Nature Reserve",
+    "fact": "Suriname is one of the most forested countries in the world."
+  },
+  {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "languages": ["Swedish"],
+    "population": "10 million",
+    "landmark": "Vasa Museum",
+    "fact": "Sweden is known for its design, innovation, and welfare system."
+  },
+  {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "capital": "Bern",
+    "continent": "Europe",
+    "languages": ["German", "French", "Italian", "Romansh"],
+    "population": "8.5 million",
+    "landmark": "Matterhorn",
+    "fact": "Switzerland is famous for its neutrality and watches."
+  },
+  {
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "17 million",
+    "landmark": "Ancient city of Aleppo",
+    "fact": "Damascus is one of the oldest continuously inhabited cities."
+  },
+  {
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "languages": ["Tajik"],
+    "population": "9.5 million",
+    "landmark": "Pamir Mountains",
+    "fact": "Known as the 'Roof of the World' due to its high mountains."
+  },
+  {
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "languages": ["Swahili", "English"],
+    "population": "59 million",
+    "landmark": "Mount Kilimanjaro",
+    "fact": "Tanzania is home to Africa’s highest peak."
+  },
+  {
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "languages": ["Thai"],
+    "population": "70 million",
+    "landmark": "Grand Palace",
+    "fact": "Thailand is famous for its cuisine and tropical beaches."
+  },
+  {
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "capital": "Dili",
+    "continent": "Asia",
+    "languages": ["Tetum", "Portuguese"],
+    "population": "1.3 million",
+    "landmark": "Jaco Island",
+    "fact": "One of the youngest countries, independent since 2002."
+  },
+  {
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "languages": ["French"],
+    "population": "8 million",
+    "landmark": "Fazao-Malfakassa National Park",
+    "fact": "Togo is known for its palm-lined beaches."
+  },
+  {
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "capital": "Nukuʻalofa",
+    "continent": "Oceania",
+    "languages": ["Tongan", "English"],
+    "population": "105,000",
+    "landmark": "Haʻamonga ʻa Maui",
+    "fact": "Tonga is known as the 'Friendly Islands.'"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "1.4 million",
+    "landmark": "Maracas Bay",
+    "fact": "Famous for its Carnival festival."
+  },
+  {
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "languages": ["Arabic"],
+    "population": "12 million",
+    "landmark": "Amphitheatre of El Jem",
+    "fact": "Tunisia has well-preserved Roman ruins."
+  },
+  {
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "capital": "Ankara",
+    "continent": "Europe/Asia",
+    "languages": ["Turkish"],
+    "population": "84 million",
+    "landmark": "Hagia Sophia",
+    "fact": "Turkey straddles two continents: Europe and Asia."
+  },
+  {
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "languages": ["Turkmen"],
+    "population": "6 million",
+    "landmark": "Darvaza Gas Crater",
+    "fact": "Known as the 'Door to Hell' due to a burning natural gas crater."
+  },
+  {
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "languages": ["Tuvaluan", "English"],
+    "population": "11,000",
+    "landmark": "Funafuti Atoll",
+    "fact": "Tuvalu is one of the smallest and least populous countries."
+  },
+  {
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "languages": ["English", "Swahili"],
+    "population": "44 million",
+    "landmark": "Bwindi Impenetrable Forest",
+    "fact": "Known for mountain gorilla conservation."
+  },
+  {
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "languages": ["Ukrainian"],
+    "population": "41 million",
+    "landmark": "Saint Sophia Cathedral",
+    "fact": "Ukraine is the largest country entirely in Europe."
+  },
+  {
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "9.9 million",
+    "landmark": "Burj Khalifa",
+    "fact": "Home to the world’s tallest building."
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "capital": "London",
+    "continent": "Europe",
+    "languages": ["English"],
+    "population": "67 million",
+    "landmark": "Big Ben",
+    "fact": "The UK includes England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "languages": ["English"],
+    "population": "331 million",
+    "landmark": "Statue of Liberty",
+    "fact": "The USA is the third largest country by area and population."
+  },
+  {
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "3.5 million",
+    "landmark": "Plaza Independencia",
+    "fact": "Uruguay is known for its beach-lined coastline."
+  },
+  {
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "languages": ["Uzbek"],
+    "population": "33 million",
+    "landmark": "Registan",
+    "fact": "Famous for its Silk Road cities."
+  },
+  {
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "languages": ["Bislama", "English", "French"],
+    "population": "300,000",
+    "landmark": "Mount Yasur",
+    "fact": "Home to one of the world’s most accessible active volcanoes."
+  },
+  {
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "languages": ["Italian", "Latin"],
+    "population": "800",
+    "landmark": "St. Peter’s Basilica",
+    "fact": "The smallest country in the world by area and population."
+  },
+  {
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "capital": "Caracas",
+    "continent": "South America",
+    "languages": ["Spanish"],
+    "population": "28 million",
+    "landmark": "Angel Falls",
+    "fact": "Angel Falls is the world’s highest uninterrupted waterfall."
+  },
+  {
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "languages": ["Vietnamese"],
+    "population": "97 million",
+    "landmark": "Ha Long Bay",
+    "fact": "Ha Long Bay is famous for its limestone karsts and islands."
+  },
+  {
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "languages": ["Arabic"],
+    "population": "30 million",
+    "landmark": "Old City of Sana'a",
+    "fact": "Sana'a is one of the oldest continuously inhabited cities."
+  },
+  {
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "languages": ["English"],
+    "population": "18 million",
+    "landmark": "Victoria Falls",
+    "fact": "Victoria Falls is one of the largest waterfalls in the world."
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "capital": "Harare",
+    "continent": "Africa",
+    "languages": ["English", "Shona", "Ndebele"],
+    "population": "15 million",
+    "landmark": "Great Zimbabwe Ruins",
+    "fact": "Great Zimbabwe is an ancient city and UNESCO World Heritage site."
+  }
+]
